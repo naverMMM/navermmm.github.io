@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://navermmm.github.io/sitemap.xml
